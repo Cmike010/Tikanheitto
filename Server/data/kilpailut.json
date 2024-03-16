@@ -1,0 +1,197 @@
+[
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Kauden eka mökkitikka",
+    "paiva": "Fri Mar 15 2024 17:07:53 GMT+0200",
+    "kierrokset": 3,
+    "kilpailijat": [
+      "Esa",
+      "Vesa"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Esa",
+        "tulos": 49
+      },
+      {
+        "kilpailijanNimi": "Vesa",
+        "tulos": 48
+      }
+    ]
+  },
+  {
+    "tyyppi": "darts501",
+    "nimi": "Kisa",
+    "paiva": "Thu Mar 14 2024 20:40:12 GMT+0200",
+    "kierrokset": 1,
+    "kilpailijat": [
+      "Jsjsj",
+      "Gwgwh"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Jsjsj",
+        "tulos": 161
+      },
+      {
+        "kilpailijanNimi": "Gwgwh",
+        "tulos": 0
+      }
+    ]
+  },
+  {
+    "tyyppi": "darts501",
+    "nimi": "kisa5",
+    "paiva": "Thu Mar 14 2024 20:31:18 GMT+0200",
+    "kierrokset": 1,
+    "kilpailijat": [
+      "Pena",
+      "Ropo"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Pena",
+        "tulos": 0
+      },
+      {
+        "kilpailijanNimi": "Ropo",
+        "tulos": 151
+      }
+    ]
+  },
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Möksätiksa",
+    "paiva": "Thu Mar 14 2024 17:37:10 GMT+0200",
+    "kierrokset": 3,
+    "kilpailijat": [
+      "Jää",
+      "Mää"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Jää",
+        "tulos": 88
+      },
+      {
+        "kilpailijanNimi": "Mää",
+        "tulos": 120
+      }
+    ]
+  },
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Nsnsbsb",
+    "paiva": "Thu Mar 07 2024 18:07:25 GMT+0200",
+    "kierrokset": 1,
+    "kilpailijat": [
+      "Skksks",
+      "nBVvsvs"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Skksks",
+        "tulos": 7
+      },
+      {
+        "kilpailijanNimi": "nBVvsvs",
+        "tulos": 8
+      }
+    ]
+  },
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Kilpailu1",
+    "paiva": "Mon Feb 26 2024 18:07:25 GMT+0200",
+    "kierrokset": 5,
+    "kilpailijat": [
+      "Jokke",
+      "Kuuppa",
+      "Kapis"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Jokke",
+        "tulos": 35
+      },
+      {
+        "kilpailijanNimi": "Kuuppa",
+        "tulos": 38
+      },
+      {
+        "kilpailijanNimi": "Kapis",
+        "tulos": 37
+      }
+    ]
+  },
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Kilpailu3",
+    "paiva": "Fri Feb 02 2024 18:07:25 GMT+0200",
+    "kierrokset": 3,
+    "kilpailijat": [
+      "Irma",
+      "Rope",
+      "Kipis"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Irma",
+        "tulos": 6
+      },
+      {
+        "kilpailijanNimi": "Rope",
+        "tulos": 12
+      },
+      {
+        "kilpailijanNimi": "Kipis",
+        "tulos": 18
+      }
+    ]
+  },
+  {
+    "tyyppi": "mokkitikka",
+    "nimi": "Kilpailu2",
+    "paiva": "Wed Jan 24 2024 18:07:25 GMT+0200",
+    "kierrokset": 2,
+    "kilpailijat": [
+      "Rami",
+      "Armi",
+      "Kopis"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Rami",
+        "tulos": 15
+      },
+      {
+        "kilpailijanNimi": "Armi",
+        "tulos": 16
+      },
+      {
+        "kilpailijanNimi": "Kopis",
+        "tulos": 24
+      }
+    ]
+  },
+  {
+    "tyyppi": "darts501",
+    "nimi": "Kauden eka dartsi",
+    "paiva": "Sat Mar 16 2024 08:45:39 GMT+0200",
+    "kierrokset": 1,
+    "kilpailijat": [
+      "Veli",
+      "Matti"
+    ],
+    "tulokset": [
+      {
+        "kilpailijanNimi": "Veli",
+        "tulos": 150
+      },
+      {
+        "kilpailijanNimi": "Matti",
+        "tulos": 0
+      }
+    ]
+  }
+]
